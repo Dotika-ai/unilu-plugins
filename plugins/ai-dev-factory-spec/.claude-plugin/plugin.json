@@ -1,0 +1,15 @@
+{
+  "name": "ai-dev-factory-spec",
+  "version": "1.3.1",
+  "description": "Spec stage of the AI Dev Factory (Universit\u00e9 du Luxembourg \u00d7 Dotika): validate existing knowledge, extend the scope and grill the PRD.",
+  "author": {
+    "name": "Dotika"
+  },
+  "keywords": [
+    "spec",
+    "prd",
+    "requirements",
+    "business-analysis",
+    "gherkin"
+  ]
+}

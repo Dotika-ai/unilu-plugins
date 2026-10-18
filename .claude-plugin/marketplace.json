@@ -1,0 +1,18 @@
+{
+  "name": "dotika-unilu",
+  "owner": {
+    "name": "Dotika"
+  },
+  "metadata": {
+    "description": "Plugins Claude de l'AI Dev Factory — Université du Luxembourg × Dotika."
+  },
+  "plugins": [
+    {
+      "name": "ai-dev-factory-spec",
+      "source": "./plugins/ai-dev-factory-spec",
+      "description": "Spec stage of the AI Dev Factory (Université du Luxembourg × Dotika): validate existing knowledge, extend the scope and grill the PRD.",
+      "version": "1.3.1",
+      "author": { "name": "Dotika" }
+    }
+  ]
+}
