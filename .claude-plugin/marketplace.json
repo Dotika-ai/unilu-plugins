@@ -10,9 +10,11 @@
     {
       "name": "ai-dev-factory-spec",
       "source": "./plugins/ai-dev-factory-spec",
-      "description": "Spec stage of the AI Dev Factory (Université du Luxembourg × Dotika): validate existing knowledge, extend the scope and grill the PRD.",
-      "version": "1.3.1",
-      "author": { "name": "Dotika" }
+      "description": "Spec stage of the AI Dev Factory (Université du Luxembourg × Dotika): existing product (elicitation) or new application (scope map, challenge, PRD draft), then extend the scope and grill the PRD.",
+      "version": "1.4.0",
+      "author": {
+        "name": "Dotika"
+      }
     }
   ]
 }
