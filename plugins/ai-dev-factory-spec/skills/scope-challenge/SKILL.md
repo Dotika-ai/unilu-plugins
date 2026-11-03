@@ -1,6 +1,6 @@
 ---
 name: scope-challenge
-description: This skill should be used after /scope-map in a greenfield project, when the team asks to "challenge the scope", "stress-test the MVP", "what did we forget", "is the MVP too big" or calls /scope-challenge. It challenges the agreed scope map one point at a time (MVP size, forgotten users and cases, dependencies on other systems, overlap with what exists, success measures, ideas from other universities), the team decides, and the scope map is redrawn as v<n+1>.
+description: This skill should be used after /scope-map in a greenfield project, when the team asks to "challenge the scope", "stress-test the MVP", "what did we forget", "is the MVP too big" or calls /scope-challenge. It challenges the agreed scope map one point at a time (MVP size, forgotten users and cases, dependencies on other systems, overlap with what exists, success measures, ideas from other universities), the team decides, and the scope map is redrawn as its next version.
 ---
 
 # Scope challenge · stress-test the scope before writing the PRD
