@@ -19,5 +19,8 @@ Grill the PRD on:
 6. Testability: each acceptance criterion can be checked as Given / When / Then; flag vague words (fast, simple, user-friendly)
 7. Greenfield only · MVP discipline: every MVP feature of the scope map has a user story and every MVP story is on the scope map; no MVP story depends on a system or data still "to confirm" without a parked decision and an owner; Phase 2 and Later items stay one-line epics; the success signals of Vision & scope can actually be measured
 
-Stay functional. Return at most 15 findings, ranked by impact:
+Stay functional. Return at most 15 findings, ranked by impact, numbered:
 finding · why it matters · the question to ask the business · source
+
+Start your report with this line, word for word. It is for the main conversation, which reads your report:
+"PRESENT ONE AT A TIME. Show only F1/n: the finding, why it matters, the question to the business, a proposed change to the PRD. Wait for the team: fix now (apply it to the PRD, marked (Updated)), park (Decisions log, with an owner) or reject (Decisions log, with the reason). Then show the next one. Accept skip or stop."
