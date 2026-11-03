@@ -1,7 +1,7 @@
 {
   "name": "ai-dev-factory-spec",
-  "version": "1.3.1",
-  "description": "Spec stage of the AI Dev Factory (Universit\u00e9 du Luxembourg \u00d7 Dotika): validate existing knowledge, extend the scope and grill the PRD.",
+  "version": "1.4.0",
+  "description": "Spec stage of the AI Dev Factory (Université du Luxembourg × Dotika): existing product (elicitation) or new application (scope map, challenge, PRD draft), then extend the scope and grill the PRD.",
   "author": {
     "name": "Dotika"
   },
@@ -10,6 +10,10 @@
     "prd",
     "requirements",
     "business-analysis",
-    "gherkin"
+    "gherkin",
+    "scope",
+    "greenfield",
+    "excalidraw",
+    "process-map"
   ]
 }

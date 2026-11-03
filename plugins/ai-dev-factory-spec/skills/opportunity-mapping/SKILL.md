@@ -1,6 +1,6 @@
 ---
 name: opportunity-mapping
-description: This skill should be used after /elicitation, when the team asks to "extend the scope", "propose new features", "challenge the scope", "find opportunities" or calls /opportunity-mapping. It proposes genuinely new ideas on top of PRD v0.1 (better journeys, good practices from other products, AI-enabled features), one at a time, and the team decides.
+description: This skill should be used after /elicitation (or after /prd-draft in a greenfield project), when the team asks to "extend the scope", "propose new features", "challenge the scope", "find opportunities" or calls /opportunity-mapping. It proposes genuinely new ideas on top of PRD v0.1 (better journeys, good practices from other products, AI-enabled features), one at a time, and the team decides.
 ---
 
 # Opportunity mapping · extend the scope, on purpose
@@ -8,7 +8,7 @@ description: This skill should be used after /elicitation, when the team asks to
 Goal: go beyond the existing. Suggest what the product could do better, then let the team decide.
 
 ## Step 1 · Map NEW opportunities
-Read the PRD doc (v0.1) first: everything in it is already known. Your job is to bring what is NOT in it.
+Read the PRD doc (v0.1) first: everything in it is already known. In a greenfield project, also read the latest scope map and scope-decisions.md: what /scope-challenge rejected or parked is known too, and every accepted idea goes to Phase 2 or Later unless the team puts it in the MVP. Your job is to bring what is NOT in it.
 Stay within the scope set in the project instructions and in Vision & scope: only propose ideas for the part of the product being built.
 Generate ideas in 4 families:
 1. Rethink the journey: steps that could disappear, be merged, be automated or done in self-service

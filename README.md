@@ -4,7 +4,7 @@ Marketplace des plugins Claude de l'AI Dev Factory (Université du Luxembourg ×
 
 | Plugin | Version | Rôle |
 |---|---|---|
-| ai-dev-factory-spec | 1.3.1 | Étape Spec : `/elicitation`, `/opportunity-mapping`, agent `prd-griller` |
+| ai-dev-factory-spec | 1.4.0 | Étape Spec : existant (`/elicitation`) ou nouvelle application (`/scope-map`, `/scope-challenge`, `/prd-draft`), puis `/opportunity-mapping`, skill `diagram`, agent `prd-griller` |
 
 ## Installer
 
